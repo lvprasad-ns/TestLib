@@ -1,5 +1,29 @@
 apply plugin: 'com.android.library'
 
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'mylibrary'
+
+    publishedGroupId = 'com.example.prasadtumma'
+    libraryName = 'mylibrary'
+    artifact = 'mylibrary'
+
+    libraryDescription = 'A wrapper for Facebook Native Like Button (LikeView) on Android'
+
+    siteUrl = 'https://github.com/lvprasad-ns/TestLib'
+    gitUrl = 'https://github.com/lvprasad-ns/TestLib.git'
+
+    libraryVersion = '0.0.1'
+
+    developerId = 'lvprasad-ns'
+    developerName = 'lvprasad tumma'
+    developerEmail = 'lvprasad.neurospeech@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
