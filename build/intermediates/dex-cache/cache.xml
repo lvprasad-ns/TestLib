@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android Demos\24thDec2015\TestApplication\TestLib\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Android Demos\24thDec2015\TestApplication\TestLib\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_d3e9f8ad593b92db31bdd4294aca084b9fb00ced.jar" />
+    </item>
+    <item
+        jar="E:\Android Demos\24thDec2015\TestApplication\app\build\intermediates\exploded-aar\TestApplication\com.example.prasadtumma.mylibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9058399003da1d6586b14b0f6fceeadfdb224fce">
+        <dex dex="E:\Android Demos\24thDec2015\TestApplication\app\build\intermediates\pre-dexed\debug\TestApplication-com.example.prasadtumma.mylibrary-unspecified_5eaecce414eb9e50f485f2dae73360079a30ff48.jar" />
+    </item>
+    <item
+        jar="E:\Android Demos\24thDec2015\TestApplication\TestLib\app\build\intermediates\exploded-aar\TestLib\com.example.prasadtumma.mylibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6976214523e63eb34bddc9ec371a763916594c81">
+        <dex dex="E:\Android Demos\24thDec2015\TestApplication\TestLib\app\build\intermediates\pre-dexed\debug\TestLib-com.example.prasadtumma.mylibrary-unspecified_87e99e3e9190dfeb489899e7f891baa84deacc5f.jar" />
+    </item>
+    <item
+        jar="E:\Android Demos\24thDec2015\TestApplication\TestLib\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Android Demos\24thDec2015\TestApplication\TestLib\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_2a89020a9ff9eb11ae04c5abc46234d1736b1b7e.jar" />
+    </item>
+    <item
+        jar="E:\Android Demos\24thDec2015\TestApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Android Demos\24thDec2015\TestApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_e9027287c8821a859098277f7c05b189cb15bd34.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Android Demos\24thDec2015\TestApplication\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15.jar" />
+    </item>
+    <item
+        jar="E:\Android Demos\24thDec2015\TestApplication\TestLib\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Android Demos\24thDec2015\TestApplication\TestLib\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_14606ac9314986ba2812cd39cfc8206c2b203b5d.jar" />
+    </item>
+    <item
+        jar="E:\Android Demos\24thDec2015\TestApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Android Demos\24thDec2015\TestApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_61fa63f303c2c1bcecd763cf4a03a9d3d5870c30.jar" />
+    </item>
+    <item
+        jar="E:\Android Demos\24thDec2015\TestApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Android Demos\24thDec2015\TestApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_853e4e97bbb1db2968eb33727c50d75c33059c31.jar" />
+    </item>
+
+</items>
